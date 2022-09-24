@@ -1,0 +1,20 @@
+{
+  "/articles": {
+    "/articles/IT": {
+      "/articles/IT/전체": {
+        "name": "전체"
+      },
+      "/articles/IT/ABC": {
+        "name": "AAAAA"
+      }
+    },
+    "/articles/부동산": {
+      "/articles/부동산/전체": {
+        "name": "전체"
+      },
+      "/articles/부동산/전세": {
+        "name": "전세"
+      }
+    }
+  }
+}
